@@ -135,6 +135,13 @@ html{
     opacity:0;
     text-align: center;
 }
+.bo  .img1{
+    float:left;
+    margin:0;
+}
+.bo span{
+  margin:0 2.1%;
+}
 .bot{
     position:fixed;
     bottom:0;
