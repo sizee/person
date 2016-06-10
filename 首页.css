@@ -57,7 +57,7 @@ html{
 
 }
 .body .style0{
-    position: relative;
+
     background-color: white;
     margin:4.7%  6.25% 0 6.25%;
     border:0.1rem solid #c9c9c9;
@@ -74,6 +74,7 @@ html{
     text-align: center;
 }
 .body .text2{
+    position: relative;
     color:white;
     font-size:3.208rem;
     line-height:9rem;
@@ -82,19 +83,21 @@ html{
     text-align: center;
 }
 .body .text3{
+
     font-size:2.453rem;
     line-height:2rem;
     color: #787878;
     text-align: center;
 }
 .body .img2{
+    display: inline;
     position: absolute;
-    top:45%;
-    right:1.5%;
+    top:2rem;
+    right:-4rem;
     width:2.8rem;
     height:5.6rem;
 }
 .body .img3{
+    padding:1rem 0 1rem 0;
     text-align: center;
-    margin:10px 18rem ;
 }
