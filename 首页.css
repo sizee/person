@@ -61,7 +61,7 @@ html{
     color:#fbb435;
     background-color: white;
     font-size: 3.774rem;
-    line-height: 6rem;
+    line-height: 5rem;
     font-weight: 500;
     margin:4% 0 0 0;
     padding-bottom: 3%;
@@ -71,9 +71,9 @@ html{
 .body .text2{
     color:white;
     font-size:3.208rem;
-    line-height:12rem;
+    line-height:10rem;
     background-color: #69d1e9;
-    margin:5% 10%;
+    margin:4% 10%;
     text-align: center;
 }
 .body .text3{
@@ -84,7 +84,7 @@ html{
 }
 .body .img2{
     position: absolute;
-    top:49%;
+    top:47%;
     right:1.5%;
     width:2.8rem;
     height:5.6rem;
